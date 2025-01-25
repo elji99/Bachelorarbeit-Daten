@@ -50,7 +50,7 @@ Die Python-Skripte setzen die Installation der folgenden Bibliotheken voraus:
 - `pandas`
 - `google-api-python-client`
 
-Führe die Skripte in der Reihenfolge aus, wie sie in der Dokumentation angegeben sind, um die Ergebnisse zu reproduzieren.
+Führen Sie die Skripte in der Reihenfolge aus, wie sie in der Dokumentation angegeben sind, um die Ergebnisse zu reproduzieren.
 
 ### Tampermonkey-Skripte
 1. Installieren Sie die [Tampermonkey-Erweiterung](https://www.tampermonkey.net/) für Ihren Browser.
